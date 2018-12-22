@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Контур-Фокус</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Войти</string>
+    <string name="field_search">Поиск по ИНН</string>
+    <string name="search">Поиск</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_title">Введите адрес эл. почты</string>
+    <string name="hello_blank_fragment_description">Вход доступен только клиентам с действующей подпиской Контур.Фокус</string>
+    <string name="hello_blank_fragment_placeholder">Введите адрес эл. почты</string>
+    <string name="enter_fragment">Вход</string>
+    <string name="demo_fragment">Test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
