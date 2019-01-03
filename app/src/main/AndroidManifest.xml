@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.saimon.kontur_focus">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <meta-data
         android:name="android.app.default_searchable"
         android:value="com.example.saimon.kontur_focus.MainActivity" />
@@ -25,6 +27,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".BrowserActivity"></activity>
     </application>
 
 </manifest>

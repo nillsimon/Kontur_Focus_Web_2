@@ -15,7 +15,12 @@
     <string name="hello_blank_fragment_placeholder">Введите адрес эл. почты</string>
     <string name="enter_fragment">Вход</string>
     <string name="demo_fragment">Test</string>
-
+    <string name="open_browser_activity">Open Browser Activity</string>
+    <string name="ok">OK</string>
+    <string name="homepage1">http://worldweather.wmo.int/ru/home.html</string>
+    <string name="homepage">https://focus.kontur.ru/search?country=</string>
+    <string name="homepage2">https://focus.kontur.ru</string>
+    <string name="start_service">Start service</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
